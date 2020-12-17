@@ -1,0 +1,194 @@
+[
+    
+{
+    "name": "MUSLOS DE POLLO A LA CREMA DE PEREJIL",
+    "portions": "6",
+    "ingredients": [
+        "12 muslitos de pollo",
+        "150 gr tocino picado",
+        "1 cebolla blanca picada",
+        "3/4 taza vino blanco",
+        "1/2 tz crema leche",
+        "2 cdas perejil picado",
+        "2 hojas laurel",
+        "4 cdas mantequilla",
+        "2 cdas aceite",
+        "sal y pimienta"
+    ],
+    "preparation": [
+        "En una olla, fuego lento aceite y mantequilla",
+        "Agregar la cebolla, laurel, tocino y luego el pollo",
+        "Dorar el pollo por ambos lados. Cocine por 10 min y retire el pollo aparte.",
+        "En la misma olla agregar la cebolla, sal y pimienta",
+        "Fuego bajo. Agregar vino. Cocinar hasta hervir",
+        "Agregar crema de leche y perejil",
+        "volver a colocar el pollo en la olla",
+        "10 min más a fuego bajo",
+        "Retire y sirva",
+        "Se sugiere acompañar con arroz"
+    ],
+    "marketlist": [
+        {
+            "item":"Muslitos de pollo",
+            "brand": ["propia"], 
+            "quantity": "100",
+            "unidad": "gr"
+        },
+        {
+            "item":"Tocino" ,
+            "brand": "propia",
+            "quantity": "200",
+            "unidad": "gramos"
+        },
+        {
+            "item":"Cebolla",
+            "brand": "propia",
+            "quantity": "1",
+            "unidad": "kg"
+        },
+        {
+            "item":"Vino blanco",
+            "brand": "propia",
+            "quantity": "1",
+            "unidad": "caja"
+        },
+        {
+            "item":"Crema de leche",
+            "brand": "gloria",
+            "quantity": "1",
+            "unidad": "bolsa 900 ml"
+        },
+        {
+            "item":"Perejil",
+            "brand": "propia",
+            "quantity": "1",
+            "unidad": "atado"
+        },
+        {
+            "item":"Laurel",
+            "brand": "propia",
+            "quantity": "1",
+            "unidad": "bolsita"
+        },
+        {
+            "item":"Mantequilla",
+            "brand": "laive, gloria",
+            "quantity": "100",
+            "unidad": "gr"
+        }
+    ],
+    "labels":[
+        "pollo", 
+        "muslos"
+    ],
+    "nutrition":[],
+    "images":[]
+    
+},
+
+
+
+
+{
+    "name": "ESTOFADO DE PAVO Y ALCACHOFA",
+    "portions": "6",
+    "ingredients": [
+        "1 kg de pechuga de pavo en trozos",
+        "12 fondos de alcachofa en tiras",
+        "1 tz alverjas",
+        "1 tz tomate pelado sin pepas",
+        "1 zanahoria en tiras",
+        "2 cdas pasta tomate",
+        "1 cebolla picada",
+        "1 cda de ajo picado",
+        "aceite, sal y pimienta"
+    ],
+    "preparation": [
+        "Sazonar el pavo con sal y pimienta",
+        "Olla, fuego medio. Aceite, cebolla y ajo por 4 minutos. ",
+        "Añadir pasta de tomate, cocine por 2 min sin dejar de mover",
+        "Incorporar el pavo. Cuando esté dorado agregar el tomate, vino y caldo. ",
+        "Cuando hierva añadir las alverjas, alcachofa y zanahoria",
+        "Fuego al mínimo, tapar la olla y dejar cocinar por 30 min.",
+        "Retire del fuego y sirva. "
+    ],
+    "marketlist": [
+        {
+            "item": "Filete pechuga pavita",
+            "brand": "San fernando",
+            "quantity": "1.2",
+            "unidad": "kg"
+        },
+        {
+            "item": "Alcachofa",
+            "brand": "propia",
+            "quantity": "12",
+            "unidad": "unidades"
+        },
+        {
+            "item": "Alvejas",
+            "brand": "propia",
+            "quantity": "500",
+            "unidad": "gr"
+        },
+        {
+            "item": "Tomates",
+            "brand": "propia",
+            "quantity": "500",
+            "unidad": "gr"
+        },
+        {
+            "item": "Zanahoria",
+            "brand": "propia",
+            "quantity": "2",
+            "unidad": "kg"
+        },
+        {
+            "item": "Pasta tomate",
+            "brand": "molitalia",
+            "quantity": "120",
+            "unidad": "gr"
+        },
+        {
+            "item": "Cebolla roja",
+            "brand": "propia",
+            "quantity": "1",
+            "unidad": "kg"
+        },
+        {
+            "item": "Ajo",
+            "brand": "propia",
+            "quantity": "500",
+            "unidad": "gr"
+        }
+    ],
+    "labels": [
+        "estofado",
+        "pavo",
+        "alcachofa",
+        "nuevo"
+    ],
+    "nutrition": [],
+    "images": []
+}
+
+]
+
+
+
+
+{
+    "name": "Menu 2",
+    "startdate": "2020-09-14",
+    "plates": {
+        "monday":"zlByJBfw8mVQpiKoKGeZ",
+        "tuesday":"fVrYSUxq1DZb8UZGu4u4",
+        "wednesday":"X8wjJrNrUAMVsWphGFOe",
+        "thursday":"X8wjJrNrUAMVsWphGFOe",
+        "friday":"9crIdPtklnmGvnuEm72F",
+        "saturday":"bjgs6JxSaieVXXf9aWv4",
+        "sunday":"24PawXroNyVzSlN3wCWQ"
+    }
+}
+
+
